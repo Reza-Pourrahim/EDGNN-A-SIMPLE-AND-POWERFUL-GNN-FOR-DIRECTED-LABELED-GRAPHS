@@ -14,7 +14,7 @@ This is a re-implementation of this paper.
 * This work is an extension of *Morris et al. ( 2018 )*
 
 * Benchmark edGNN model on:
-* *Graph classification task
-* *Node classification task
+  * Graph classification task
+  * Node classification task
 
 The results of my re implementation for both the Node and Graph Classification task on the MUTAG dataset is near to the paper reported results. Also, My re implementation model performed well as well in both tasks.
